@@ -1,0 +1,3 @@
+/home/ayabedair/CLionProjects/don't_touch/cmake-build-debug/CMakeFiles/don_t_touch.dir
+/home/ayabedair/CLionProjects/don't_touch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ayabedair/CLionProjects/don't_touch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
